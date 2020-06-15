@@ -9,6 +9,8 @@ The datafiles related for this collection can be found on the [San Diego Regiona
 * [Police Data Accessibility Project](https://www.reddit.com/r/DataPolice/)
 * [Police Data Initiative](https://www.policedatainitiative.org/)
 * [Open Oversight](https://lucyparsonslabs.com/projects/openoversight/)
+* [Fatal Encounters](https://fatalencounters.org/)
+* [Mapping Police Violence](https://mappingpoliceviolence.org/)
 
 ## Managing the Collection
 
