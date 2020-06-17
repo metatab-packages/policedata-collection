@@ -1,13 +1,18 @@
 #  Police Data Collection
 
+This data collection collects datasets related to the operation of police departments, primarily those published the [Police Data Initiative](https://www.policedatainitiative.org/) website, and processes the datasets to make them easier to analyze. 
 
-This collection includes datasets linked from the [Police Data Initiative](https://www.policedatainitiative.org/) website. 
+The datafiles related for this collection can be found on the [San Diego Regional Data Library data repository](https://data.sandiegodata.org/dataset/category/police_data_collection/)
 
-The datafiles reated for this collection can be found on the [San Diego Regional Data Library data repository](https://data.sandiegodata.org/dataset/category/police_data_collection/)
+## Related Projects: 
 
+* [Police Data Accessibility Project](https://www.reddit.com/r/DataPolice/)
+* [Police Data Initiative](https://www.policedatainitiative.org/)
+* [Open Oversight](https://lucyparsonslabs.com/projects/openoversight/)
+* [Fatal Encounters](https://fatalencounters.org/)
+* [Mapping Police Violence](https://mappingpoliceviolence.org/)
 
 ## Managing the Collection
-
 
 ### Adding an Existing Data Package
 
