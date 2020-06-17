@@ -1,3 +1,21 @@
 [submodule "austintexas.gov-response_to_resistance"]
 	path = austintexas.gov-response_to_resistance
 	url = https://github.com/metatab-packages/austintexas.gov-response_to_resistance.git
+[submodule "wonder.cdc.goc-underlying_cod-state-assault"]
+	path = wonder.cdc.goc-underlying_cod-state-assault
+	url = https://github.com/metatab-packages/wonder.cdc.goc-underlying_cod-state-assault.git
+[submodule "icpsr.umich.edu-ncvs_police_public-2015"]
+	path = icpsr.umich.edu-ncvs_police_public-2015
+	url = https://github.com/metatab-packages/icpsr.umich.edu-ncvs_police_public-2015.git
+[submodule "sandiego.gov-police_calls_for_service"]
+	path = sandiego.gov-police_calls_for_service
+	url = https://github.com/metatab-packages/sandiego.gov-police_calls_for_service.git
+[submodule "openjustice.doj.ca.gov-homicide"]
+	path = openjustice.doj.ca.gov-homicide
+	url = https://github.com/metatab-packages/openjustice.doj.ca.gov-homicide.git
+[submodule "openjustice.doj.ca.gov-agencies"]
+	path = openjustice.doj.ca.gov-agencies
+	url = https://github.com/metatab-packages/openjustice.doj.ca.gov-agencies.git
+[submodule "openjustice.doj.ca.gov-datasets"]
+	path = openjustice.doj.ca.gov-datasets
+	url = https://github.com/metatab-packages/openjustice.doj.ca.gov-datasets.git

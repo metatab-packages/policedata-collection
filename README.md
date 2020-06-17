@@ -1,7 +1,7 @@
 #  Police Data Collection
 
 
-This collection includes datasets linked from the [Police Data Collection](https://www.policedatainitiative.org/) website. 
+This collection includes datasets linked from the [Police Data Initiative](https://www.policedatainitiative.org/) website. 
 
 The datafiles reated for this collection can be found on the [San Diego Regional Data Library data repository](https://data.sandiegodata.org/dataset/category/police_data_collection/)
 
